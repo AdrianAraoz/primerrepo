@@ -1,2 +1,2 @@
-"# Mi nuevo repositorio" 
+# Mi nuevo repositorio
 ## aprendiendo en mi primer github

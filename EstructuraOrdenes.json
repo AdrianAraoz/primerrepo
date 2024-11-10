@@ -1,0 +1,17 @@
+{
+  "OrderID": 1,
+  "Address": "rivadavia 123 este, capital, San Juan",
+  "Status": "Pendiente",
+  "Articles": [
+    {
+      "Name": "Item 1",
+      "Quantity": 2,
+      "Dangerous": false
+    },
+    {
+      "Name": "Item 2",
+      "Quantity": 1,
+      "Dangerous": true
+    }
+  ]
+}
